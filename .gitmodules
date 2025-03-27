@@ -1,0 +1,6 @@
+[submodule "matchms"]
+	path = matchms
+	url = https://github.com/matchms/matchms
+[submodule "sparsestack"]
+	path = sparsestack
+	url = https://github.com/matchms/sparsestack
